@@ -1,5 +1,7 @@
 #!/usr/bin/env python
-
+#
+# Copyright (c) 2014 Ismael Barros² <ismael@barros2.org>
+#
 # This script lets you play any video file on any remote XBMC
 # It will set up a mini HTTP server only to make the video available for XBMC
 
